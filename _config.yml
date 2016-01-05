@@ -1,0 +1,28 @@
+name: Australia 2015
+favicon: null
+layout_spectrum: 0.18892315099947155
+typography_spectrum: 0.16637972998432815
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.06915049441158772
+  lightness: 0.3972763125784695
+  saturation: 0.19827494653873146
+  rhythmicContrast: 0.14790526661090553
+purpose: []
