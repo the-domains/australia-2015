@@ -1,7 +1,7 @@
 name: Australia 2015
 favicon: null
-layout_spectrum: 0.18892315099947155
-typography_spectrum: 0.16637972998432815
+layout_spectrum: 0.88182
+typography_spectrum: 0.37515
 title: December 2015 in Australia
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.06915049441158772
+    - '#7ba7ce'
+    - '#19231a'
+    - '#ffe538'
+    - '#cd9e2d'
+    - '#d21d29'
+  brandStrength: 1
   lightness: 0.3972763125784695
   saturation: 0.19827494653873146
   rhythmicContrast: 0.14790526661090553
