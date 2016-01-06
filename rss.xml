@@ -4,7 +4,7 @@
         <description><![CDATA[December 2015 in Australia]]></description>
         <link>https://thegrid.ai/australia-2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 18:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 20:28:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/australia-2015/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Australia Trip]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/australia-2015/d1733472-19fb-4f3c-bd6c-660c304b4e50/index.html</link>
             <guid isPermaLink="false">d1733472-19fb-4f3c-bd6c-660c304b4e50</guid>
             <pubDate>Wed, 06 Jan 2016 18:42:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Road Trip]]></title>
+            <description><![CDATA[<article><h1>Road Trip</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89706ca9fdd78f37b005f51750858e22b47eba3d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/australia-2015/road-trip/index.html</link>
+            <guid isPermaLink="false">a9e5575c-e267-4aec-b78a-392c5eec3aae</guid>
+            <pubDate>Wed, 06 Jan 2016 20:28:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
